@@ -1,0 +1,5 @@
+word1 = input()
+words = word1.split(",")
+print(words)
+words.sort(reverse = True)
+print(words)
